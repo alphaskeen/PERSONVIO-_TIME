@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785214694848",
+    "project_id": "mychef-01",
+    "storage_bucket": "mychef-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785214694848:android:dc16d9ba3ad75765f95425",
+        "android_client_info": {
+          "package_name": "com.example.canteen_food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785214694848-dnn3qcuh5pkj5ko2ae0egsudqc6s6bvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstFDZ_UYZAgy4WXO7qzb7dR-ZmMSoi00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785214694848-dnn3qcuh5pkj5ko2ae0egsudqc6s6bvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
